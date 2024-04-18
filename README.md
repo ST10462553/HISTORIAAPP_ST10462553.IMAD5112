@@ -27,3 +27,24 @@
 ## Please take note that this assignment is still in progress and I am still making it a point to perfect this assignment. With that being said I would like to give out a few pointers (regarding issues you may run into):
 
 * The program may crash upon entering due to some syntax errors ( specifically overload errors) that I have run into.
+*  The button functionality process is still in progress and will be adressed once the issue is handled.
+* I have created a function on the application that will enable a user to tap a vector art image (in the app) and automatically be redirected to wikipedia. - This was to further give light and educate users of the figure in the picture.( namely, Amy Winehouse).
+  ## Image(s) appearing in the app:
+<img width="443" alt="amy2" src="https://github.com/ST10462553/IMAD5112_A1/assets/167323821/f8efadd8-c520-454d-b50d-0d1bf40ed333"> (Amy Winehouse) -- Redirects to Wikipedia once pressed.
+<img width="276" alt="nelsonM" src="https://github.com/ST10462553/IMAD5112_A1/assets/167323821/6167c876-b441-464c-b7ed-4aaf4b5f2e87"> (Nelson Mandela) -- static image(No action once pressed).
+
+## Purpose of the assignment:
+* The purpose of this project is having to gain knowledge on how to implement basic coding skills in Kotlin (programming language). during the course of this project i have learnt how to do basic designing throught the use of android studio. android studio is basically an IDE ( Integrated development environment), software that assists programmers to code more efficiently, either by pointing suggestions, syntax errors or typos made in the code. During the coarse of this project I have learnt concepts such as:
+* differenciating between "var" and "val"- to explain deeply into these two concepts, once "var" is declared in code it enables the programmer to let the program change values as oppossed to "val" , which aims to keep a value the same and prevents any change being done.
+* In the process of making this project, I've learnt how to track my progress in programming by "recording" or "journaling" through making a Github reposetary and making a ReadMe file. Which, I believe is a staple aspect in programming considering the fact that projects.
+* I gained an experience is designing an application through the use of the activity main.xml file (Android Studio)
+
+ ## How to make a github repository from scratch:
+  1. sign in using your email, mobile number,etc
+  2. Github will then request you to type in a login code(this is if you are signing in from a different account)
+  3. for extra security, to verify that you are not a robot, you will go through 20 puzzles to match to verify that you are a human.
+  4. After the sign in has been verified, write your username.
+  5. After this process is finished, you will be directed to the homepage where details of your account are put on display.
+  6. Select "new" to create a new repository.( here you can write a description,this is optional)
+  7. Select either private or public ( to determine if you want only certain people to view the repository or if the general public can see it. 
+  
