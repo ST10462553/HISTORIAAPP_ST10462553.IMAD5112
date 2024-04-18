@@ -11,4 +11,19 @@
 
  # The resources used to assist me in making this assignment:
  ## Writing a useful Readme on Github:
- ## How to write a useful Readme on Github by L
+ ## How to write a useful Readme on Github by Learn Fast Make Things
+ <a href>="https://youtu.be/E6NO0rgFub4?si=If1RqD5klWX8Qj4"
+</a>
+
+## Android Studio#4 - Get text input with EditText by Random code
+< a href>="https://youtu.be/Eiw5kRObUS0?si=j207s_LRDPES221X"
+</a>
+
+## How to get user input, Show toast message and change Image on button Click in Android Studio:
+<a href>="https://youtu.be/dll4jOKrLA8?si=e6C8R3TIFE97m4Jb"
+</a> 
+
+## Issues and pointers to take note of(work in progress):
+## Please take note that this assignment is still in progress and I am still making it a point to perfect this assignment. With that being said I would like to give out a few pointers (regarding issues you may run into):
+
+* The program may crash upon entering due to some syntax errors ( specifically overload errors) that I have run into.
