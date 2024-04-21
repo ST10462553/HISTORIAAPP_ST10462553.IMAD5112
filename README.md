@@ -1,5 +1,17 @@
 # IMAD5112_A1 - Creating a history-filled android application by ST10462553
 
+# Table of contents:
+## Introduction
+## Aspects of the project
+## Resources used (during the project)
+## How to write a useful Readme on Github by Learn Fast Make Things (video tutorial)
+##  Android Studio#4 - Get text input with EditText by Random code (video tutorial)
+## How to get user input, Show toast message and change Image on button Click in Android Studio (video tutorial)
+## Issues and pointers to take note of(work in progress)
+ ## Image(s) appearing in the app
+## Purpose of the assignment
+ ## How to make a github repository from scratch
+
 # A functional Android application project written in Kotlin to enable users to input their age, prompting the app to  dislay information about historical figures and their age of passing.
 
 # This assignment was built to test the knowledge of students and to make an attempt towards building an application that may become useful or educational to potential users. Every aspect of this assignment is sample code which makes an attempt at reaching its goals and objectives towards the following:
