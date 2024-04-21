@@ -34,10 +34,11 @@
 <img width="276" alt="nelsonM" src="https://github.com/ST10462553/IMAD5112_A1/assets/167323821/6167c876-b441-464c-b7ed-4aaf4b5f2e87"> (Nelson Mandela) -- static image(No action once pressed).
 
 ## Purpose of the assignment:
-* The purpose of this project is having to gain knowledge on how to implement basic coding skills in Kotlin (programming language). during the course of this project i have learnt how to do basic designing throught the use of android studio. android studio is basically an IDE ( Integrated development environment), software that assists programmers to code more efficiently, either by pointing suggestions, syntax errors or typos made in the code. During the coarse of this project I have learnt concepts such as:
+* The purpose of this project is having to gain knowledge on how to implement basic coding skills in Kotlin (programming language). during the course of this project I have learnt how to do basic designing throught the use of android studio. android studio is basically an IDE ( Integrated development environment), software that assists programmers to code more efficiently, either by pointing suggestions, syntax errors or typos made in the code. During the coarse of this project I have learnt concepts such as:
 * differenciating between "var" and "val"- to explain deeply into these two concepts, once "var" is declared in code it enables the programmer to let the program change values as oppossed to "val" , which aims to keep a value the same and prevents any change being done.
 * In the process of making this project, I've learnt how to track my progress in programming by "recording" or "journaling" through making a Github reposetary and making a ReadMe file. Which, I believe is a staple aspect in programming considering the fact that projects.
 * I gained an experience is designing an application through the use of the activity main.xml file (Android Studio)
+* using this project as a learning curb to correct my mistakes in any future projects or plans to fix the app's issues.
 
  ## How to make a github repository from scratch:
   1. sign in using your email, mobile number,etc
