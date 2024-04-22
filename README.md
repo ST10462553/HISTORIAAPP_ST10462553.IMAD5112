@@ -12,6 +12,24 @@
 ## Purpose of the assignment
  ## How to make a github repository from scratch
 
+# Introduction
+# Hi there! Greetings from Siyolise Ndololwana, an enthusiastic eighteen-year-old living in the lively town of Fort Beaufort. This document provides a quick overview of my journey, emphasizing my deep love for programming in spite of the difficulties I faced.
+
+# Background
+## Growing up in Fort Beaufort, I've always been captivated by technology and its endless possibilities. My fascination with programming sparked at a young age when I discovered the power of coding to create and innovate. Despite the limited resources and opportunities in my hometown, I embarked on a quest to delve deeper into the world of programming.
+
+# Mindset
+## For me, programming is more than just a skill—it'sa passion that feeds my spirit. I'm hooked by the excitement of finding solutions to challenging issues, the delight of watching lines of code come to life, and the limitless creative possibilities. My experience with programming hasn't been without its challenges, though. I've come across innumerable obstacles, innumerable bugs, and intimidating mistakes. However, every failure only strengthens my resolve to develop and learn. 
+
+# Plans for the future.
+## In the world of coding, errors are unavoidable, but I've come to accept them completely. Every flaw and every mistake is a chance for me to improve and broaden my knowledge. Failures don't depress me; instead, I view them as stepping stones on the path to mastery. I keep expanding my knowledge and looking for ways to get better by being tenacious and resilient. 
+
+# Goals
+## My goal as I progress through my programming journey is to learn about new technologies and broaden my horizons. The possibilities are endless, ranging from artificial intelligence to web development. I can't wait to have a significant impact and add to the dynamic tech scene. 
+
+# Conclusion
+## In summary, I would say that being a programmer is more than just writing code; it's a journey of personal development, invention, and self-awareness. I'm still passionate about programming even with all the obstacles. I get stronger and more determined than ever after overcoming each obstacle. I appreciate you taking the time to learn a little bit more about who I am. 
+
 # A functional Android application project written in Kotlin to enable users to input their age, prompting the app to  dislay information about historical figures and their age of passing.
 
 # This assignment was built to test the knowledge of students and to make an attempt towards building an application that may become useful or educational to potential users. Every aspect of this assignment is sample code which makes an attempt at reaching its goals and objectives towards the following:
