@@ -80,6 +80,6 @@
   7. Select either private or public ( to determine if you want only certain people to view the repository or if the general public can see it.
 
 # HOW TO ACCESS THE KOTLIN SOURCE CODE OF THE APP:
-# TO ACCESS THE KOTLIN SOURCE CODE OF MY HISTORIA APP CLICK ON THE FOLLOWING LINK OR PATH BELOW:
-app/src/main/java/com/example/historia_historyapp
+# TO ACCESS THE KOTLIN SOURCE CODE OF MY HISTORIA APP BY FOLLOWING THE PATH BELOW:
+ app/src/main/java/com/example/historia_historyapp
   
