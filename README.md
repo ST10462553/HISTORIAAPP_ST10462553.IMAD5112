@@ -77,5 +77,9 @@
   4. After the sign in has been verified, write your username.
   5. After this process is finished, you will be directed to the homepage where details of your account are put on display.
   6. Select "new" to create a new repository.( here you can write a description,this is optional)
-  7. Select either private or public ( to determine if you want only certain people to view the repository or if the general public can see it. 
+  7. Select either private or public ( to determine if you want only certain people to view the repository or if the general public can see it.
+
+# HOW TO ACCESS THE KOTLIN SOURCE CODE OF THE APP:
+# TO ACCESS THE KOTLIN SOURCE CODE OF MY HISTORIA APP CLICK ON THE FOLLOWING LINK OR PATH BELOW:
+app/src/main/java/com/example/historia_historyapp
   
