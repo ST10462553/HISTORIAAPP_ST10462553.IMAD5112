@@ -80,6 +80,9 @@
   7. Select either private or public ( to determine if you want only certain people to view the repository or if the general public can see it.
 
 # HOW TO ACCESS THE KOTLIN SOURCE CODE OF THE APP:
+## Point of notice:
+* Please note that the files for the application are accessible under the code tab on the home page of this repository.
+* Also take note that should you, as a reader, would like to be more informed of this project's development or it's details. Navigate through the repository and click "Readme". This will not only guide you in finding the source code and any other resource file of the project but it will also shed some light on this project's background.
 # TO ACCESS THE KOTLIN SOURCE CODE OF MY HISTORIA APP BY FOLLOWING THE PATH BELOW:
  app/src/main/java/com/example/historia_historyapp
   
