@@ -82,7 +82,13 @@
 # HOW TO ACCESS THE KOTLIN SOURCE CODE OF THE APP:
 ## Point of notice:
 * Please note that the files for the application are accessible under the code tab on the home page of this repository.
-* Also take note that should you, as a reader, would like to be more informed of this project's development or it's details. Navigate through the repository and click "Readme". This will not only guide you in finding the source code and any other resource file of the project but it will also shed some light on this project's background.
+* Also take note that should you, as a reader, would like to be more informed of this project's development or it's details. Navigate through the repository and click "Readme". This
+* will not only guide you in finding the source code and any other resource file of the project but it will also shed some light on this project's background.
 # TO GET ACCESS TO THE KOTLIN SOURCE CODE OF MY HISTORIA APP FOLLOW THE PATH BELOW:
  app/src/main/java/com/example/historia_historyapp
   
+## My YouTube tutorials: 
+<a href>https://youtu.be/5R7n1ImLOjE?si=1siCfo3C2WOqXr4F </a>
+<a href> https://youtu.be/yo0ENBnKtWg?si=LQzRy7KQ2dPOam1r </a>
+<a href> https://youtu.be/ZL9dInQJ7cw?si=c3LhJGAYIWMtcpoJ </a>
+<a href> https://youtu.be/3Xdf02ycZE4?si=RSCpPtQVxwEYs4bG </a>
